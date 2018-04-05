@@ -1,0 +1,17 @@
+numpy
+scipy==0.19.1
+statsmodels
+pyyaml
+argparse
+Flask
+scikit-learn
+pymongo
+sshtunnel
+ephem
+jupyter
+matplotlib
+boto3
+pandas
+requests
+pytictoc
+seaborn
