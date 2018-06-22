@@ -1,0 +1,3 @@
+#!/bin/bash
+optional_command=$1
+docker run --rm -ti -v ${PWD}:/app/ -p 8888:8888 --ipc=host mstefferson/kaggle:latest $1
